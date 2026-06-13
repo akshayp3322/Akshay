@@ -1,6 +1,5 @@
 I am Jack Sparrow
 <<<<<<< HEAD
  ia am in pune
-=======
  i ama comming ome
 
